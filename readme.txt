@@ -1,1 +1,2 @@
- this is my first git.
+ This is my first git.
+ A change is happening this moment... 
